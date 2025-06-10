@@ -1,0 +1,9 @@
+# Copyright (c) {year}, {app_publisher} and Contributors
+# See license.txt
+
+# import nts
+from nts.tests.utils import ntsTestCase
+
+
+class Test{classname}(ntsTestCase):
+	pass

@@ -1,4 +1,4 @@
-import DataTable from "nts-datatable";
+import DataTable from "frappe-datatable";
 import { get_columns_for_picker } from "./data_exporter";
 
 nts.provide("nts.data_import");

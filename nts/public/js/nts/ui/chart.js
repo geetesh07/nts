@@ -1,4 +1,4 @@
-import { Chart } from "nts-charts/dist/nts-charts.esm";
+import { Chart } from "frappe-charts/dist/frappe-charts.esm";
 
 nts.provide("nts.ui");
 nts.Chart = Chart;

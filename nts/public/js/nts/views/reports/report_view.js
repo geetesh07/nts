@@ -1,7 +1,7 @@
 /**
  * nts.views.ReportView
  */
-import DataTable from "nts-datatable";
+import DataTable from "frappe-datatable";
 
 window.DataTable = DataTable;
 nts.provide("nts.views");
